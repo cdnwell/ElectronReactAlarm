@@ -1,0 +1,19 @@
+.btn_wrap {
+  position: relative;
+}
+
+.btn_div {
+  width: 180px;
+
+  display: flex;
+  justify-content: space-between;
+}
+
+.start_btn_div {
+  position: absolute;
+
+  left: 50%;
+  top: 50%;
+
+  transform: translate(-50%, -50%);
+}

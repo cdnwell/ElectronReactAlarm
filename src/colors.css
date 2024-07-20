@@ -1,0 +1,12 @@
+:root {
+    --alarm-nav-background: #e8e8e8;
+
+    --main-gray: #f3f3f3;
+    --main-blue: #0085FF;
+    --main-dark-blue: #0053a1;
+
+    /*--alarm-box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;*/
+    --alarm-box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    --alarm-nav-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    --alarm-menu-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}

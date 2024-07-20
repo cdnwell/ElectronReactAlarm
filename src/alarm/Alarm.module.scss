@@ -1,0 +1,18 @@
+.alarm_wrap {
+  padding: 30px;
+
+  border-radius: 10px;
+
+  box-shadow: var(--alarm-box-shadow);
+  //border: 1px solid #dadada;
+
+  background-color: white;
+}
+.alarm_div {
+  height: 170px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}

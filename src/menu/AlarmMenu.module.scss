@@ -1,0 +1,24 @@
+.alarm_menu_wrap {
+  height: 77px;
+
+  display: flex;
+  flex-direction: column;
+}
+
+.alarm_menu {
+  width: 48px;
+  height: 50px;
+
+  padding: 7px;
+
+  border: 1px solid var(--main-blue);
+  border-radius: 5px;
+
+  box-shadow: var(--alarm-menu-shadow);
+
+  transition: background-color 0.3s ease;
+}
+
+.alarm_menu:hover {
+  background-color: var(--main-blue);
+}
